@@ -1,2 +1,2 @@
-# ai-calendar
-This is a personal AI calendar
+# ai-calendar-mobile
+This is a Mobile personal AI calendar 
